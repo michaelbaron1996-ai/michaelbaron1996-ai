@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mihai Sebastian Sararu
 
-<!--
-**michaelbaron1996-ai/michaelbaron1996-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | C++ & Unreal Engine 5 | AI Evaluation**
 
-Here are some ideas to get you started:
+Software developer and studio founder passionate about building reliable systems, solving complex technical challenges, and improving AI-generated solutions through careful evaluation and practical feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Expertise
+
+- **Development:** C++, Unreal Engine 5, Blueprints
+- **Engineering:** Debugging, Software Testing, API Integration, Multiplayer Systems
+- **AI Evaluation:** Code Review, Response Evaluation, Prompt Refinement, Instruction Following
+- **Tools:** Git, AI Coding Assistants, Technical Documentation
+
+---
+
+### 💡 Building with Purpose. Evaluating with Precision.
+
+*Turning complex ideas into reliable solutions, one line of code and one thoughtful improvement at a time.*
